@@ -1,0 +1,10 @@
+[
+  {
+    "id": "request_1",
+    "guestName": "John Doe",
+    "roomNumber": 101,
+    "requestDetails": "Need towels",
+    "priority": 1,
+    "status": "in progress"
+  }
+]
