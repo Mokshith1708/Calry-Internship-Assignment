@@ -64,7 +64,7 @@ ts-node question1.ts
 
 ### Screenshots of the input request and output response:
 
-![alt text](image.png)
+![alt text](/question-1/image.png)
 
 
 ## Question-2 (Hotel Room Service Request Management System): 
