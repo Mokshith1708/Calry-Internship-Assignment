@@ -1,10 +1,26 @@
 [
   {
     "id": "request_1",
-    "guestName": "John Doe",
+    "guestName": "Alice Johnson",
     "roomNumber": 101,
-    "requestDetails": "Need towels",
+    "requestDetails": "Extra towels and toiletries",
     "priority": 1,
+    "status": "completed"
+  },
+  {
+    "id": "request_2",
+    "guestName": "Bob Smith",
+    "roomNumber": 102,
+    "requestDetails": "Room service for dinner with dessert",
+    "priority": 2,
     "status": "in progress"
+  },
+  {
+    "id": "request_3",
+    "guestName": "Catherine Green",
+    "roomNumber": 103,
+    "requestDetails": "Medical assistance needed",
+    "priority": 0,
+    "status": "received"
   }
 ]
